@@ -1,0 +1,20 @@
+<html>
+
+<head>
+    <title>Zhink</title>
+    <META HTTP-EQUIV="REFRESH" CONTENT="5;URL=">
+    <style>
+        .responsive {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+
+<body>
+<body style="background-color: #000000 ; ">
+
+    <img src="QR intro.gif" alt="Nature" class="responsive" width="100%">
+</body>
+
+</html>
